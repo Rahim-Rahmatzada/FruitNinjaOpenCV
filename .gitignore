@@ -1,0 +1,12 @@
+# Virtual Environment
+fruit_ninja_env/
+fruit_ninja_env_py39/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Other common files to ignore
+.vscode/
+.idea/
+*.log
